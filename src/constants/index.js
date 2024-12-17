@@ -8,7 +8,7 @@ export const HERO_CONTENT = `Full stack developer with hands-on experience. I've
 export const ABOUT_TEXT = `My name Pranav Ashok Divekar and i'm from Pune, learning and working in IT field since 2020, when I started my Diploma in Computer Engineering.
 Currently I'm pursuing my Bachelor's Degree in Information Technology from Pimpri Chinchwad College of Engineering, Pune.
 I've been developing web applications since 2022 over the MERN stack. Along with it i'm also into fitness and Power Lifting persuing it as my hobby.
-Excecutive officer at International Relations Cell, PCCOE`;
+Also i'm Excecutive officer at International Relations Cell, PCCOE`;
 
 export const EXPERIENCES = [
   {

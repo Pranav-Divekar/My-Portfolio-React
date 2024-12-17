@@ -69,7 +69,7 @@ const Contact = () => {
 
       {/* Footer Section */}
       <footer className="mt-10 text-center text-neutral-500 text-sm">
-        Made by Pranav Divekar
+        Made by Pranav Divekar completely
       </footer>
     </div>
   );
